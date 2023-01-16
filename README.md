@@ -6,7 +6,10 @@ Lo scopo di questa repo è duplice:
 - Testing di framework  python e js per semplici dash di inference
 - Testing di framework  python e js come back-end
 ---
-Esempio dashboard con Gradio: 
+Esempio dashboard con Gradio: \
+Dash interagibile dalla mia repo su [huggingface](https://huggingface.co/spaces/rmelk/gradio_NLP_ITA_dash)
+
+
 
 >![gandalf-1](online_res/gandalf_1.png)\
 >*Gandalf è arrabbiato.*

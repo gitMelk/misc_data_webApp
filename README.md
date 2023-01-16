@@ -9,7 +9,7 @@ Lo scopo di questa repo è duplice:
 Esempio dashboard con Gradio: 
 
 >![gandalf-1](online_res/gandalf_1.png)\
->*Gandalf è arrabbiato.*\
+>*Gandalf è arrabbiato.*
 
 >![pipino-1](online_res/pipino-3.png)\
 >*Pipino è felice.*

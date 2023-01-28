@@ -6,7 +6,7 @@ Lo scopo di questa repo è duplice:
 - Testing di framework  python e js per semplici dash di inference
 - Testing di framework  python e js come back-end
 ---
-Esempio dashboard con Gradio: \
+# Gradio: 
 Dash interagibile dalla mia repo su [huggingface](https://huggingface.co/spaces/rmelk/gradio_NLP_ITA_dash)
 
 
@@ -14,6 +14,7 @@ Dash interagibile dalla mia repo su [huggingface](https://huggingface.co/spaces/
 >![gandalf-1](online_res/gandalf_1.png)\
 >*Gandalf è arrabbiato.*
 
+<!---
 >![pipino-1](online_res/pipino-3.png)\
 >*Pipino è felice.*
 
@@ -22,6 +23,19 @@ Dash interagibile dalla mia repo su [huggingface](https://huggingface.co/spaces/
 
 >![pipino-1](online_res/sam_1.png)\
 >*Sam è è triste, ma il messagio è positivo.*
+-->
+
+---
+# MLfLow
+I modelli registrati con mlflow permettono di tenere i file binari in locale dopa la prima estrazione da hugging face e possono essere versionati molto semplicemente. Con mlflow è possibile aggiungere delle metriche di esempio e altri elementi per desrivere il modello. 
+
+>![mlflow-1](online_res/mlflow_1.png)\
+>*mlflow main interface*
+
+
+
+
+
 
 ---
 Il modello di riferimento per NPL è  [feel-it](https://huggingface.co/MilaNLProc/feel-it-italian-emotion)
